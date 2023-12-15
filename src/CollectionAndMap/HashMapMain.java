@@ -11,5 +11,11 @@ public class HashMapMain {
         map.put("Irene", "2");
         map.forEach((key, value) ->
                 System.out.println(" key : " + key + ", value : " + value));
+
+        System.out.println("i am happy" );
+        System.out.println("i am happy" );
+        System.out.println("i am happy" );
+        System.out.println("i am happy" );
+        System.out.println("i am happy" );
     }
 }
