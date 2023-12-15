@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a56ea03-d042-4588-992d-239cb85737b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/ComparableMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/ComparatorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/GenericMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/HashMapMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/ImmutableMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/LamdaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/LinkedListMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/MapMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/PropertiesMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/SetMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/SimpleLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/StackMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/TreeMapMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/student2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/studentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DecimalMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Field.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IntegerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterfaceDetail/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewConstructor/ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewConstructor/Some.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewConstructor/testReviewConMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ScannerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ball/CurlTestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ball/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ball/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ball/ballNew/ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/ClientEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/ClientListner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/ClientMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/client/ClientQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptionHandle/TryCatchMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fruit/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fruit/FruitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/martin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceInterface/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceInterface/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceInterface/Shark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceInterface/Submarine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceInterface/Swimmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practiceInterface/SwimmerMain.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2V6fY8LX1k041uVM2JOAWmd3P5j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/tibame/workSpace/SpringSecurity/JavaPractice&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="CollectionAndMap" />
+      <recent name="ball" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ImmutableMain">
+    <configuration name="HashMapMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionAndMap.HashMapMain" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CollectionAndMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImmutableMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionAndMap.ImmutableMain" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CollectionAndMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionAndMap.MapMain" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CollectionAndMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PropertiesMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionAndMap.PropertiesMain" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CollectionAndMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeMapMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionAndMap.TreeMapMain" />
+      <module name="JavaPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CollectionAndMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HashMapMain" />
+      <item itemvalue="Application.ImmutableMain" />
+      <item itemvalue="Application.MapMain" />
+      <item itemvalue="Application.PropertiesMain" />
+      <item itemvalue="Application.TreeMapMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ImmutableMain" />
+        <item itemvalue="Application.MapMain" />
+        <item itemvalue="Application.PropertiesMain" />
+        <item itemvalue="Application.TreeMapMain" />
+        <item itemvalue="Application.HashMapMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_392-corretto-1.8.0_392-3183f394aec4-cb300fc7" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a56ea03-d042-4588-992d-239cb85737b6" name="Changes" comment="" />
+      <created>1694161497111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694161497111</updated>
+      <workItem from="1694161498217" duration="2032000" />
+      <workItem from="1694398515906" duration="6386000" />
+      <workItem from="1694490524475" duration="3321000" />
+      <workItem from="1694585098030" duration="845000" />
+      <workItem from="1694586492738" duration="2364000" />
+      <workItem from="1694764500228" duration="1017000" />
+      <workItem from="1695016608368" duration="7417000" />
+      <workItem from="1695198117669" duration="2980000" />
+      <workItem from="1695608235694" duration="1331000" />
+      <workItem from="1695777379233" duration="175000" />
+      <workItem from="1695777616096" duration="10651000" />
+      <workItem from="1696404158954" duration="729000" />
+      <workItem from="1696557494274" duration="2091000" />
+      <workItem from="1697765106139" duration="5628000" />
+      <workItem from="1698028168368" duration="10294000" />
+      <workItem from="1698124377279" duration="4301000" />
+      <workItem from="1698212741611" duration="6981000" />
+      <workItem from="1698288286594" duration="6884000" />
+      <workItem from="1698376090147" duration="12812000" />
+      <workItem from="1699249758475" duration="676000" />
+      <workItem from="1699337352077" duration="595000" />
+      <workItem from="1699405931026" duration="3857000" />
+      <workItem from="1702277066142" duration="9899000" />
+      <workItem from="1702347744850" duration="1474000" />
+      <workItem from="1702430798652" duration="10618000" />
+      <workItem from="1702535472147" duration="6796000" />
+      <workItem from="1702604456024" duration="730000" />
+      <workItem from="1702606958087" duration="566000" />
+      <workItem from="1702624352851" duration="941000" />
+      <workItem from="1702625335049" duration="259000" />
+      <workItem from="1702625600038" duration="286000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
