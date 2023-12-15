@@ -4,60 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a56ea03-d042-4588-992d-239cb85737b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/ComparableMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/ComparatorMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/GenericMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/HashMapMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/ImmutableMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/LamdaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/LinkedListMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/MapMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/PropertiesMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/SetMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/SimpleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/StackMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/TreeMapMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/student2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionAndMap/studentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DecimalMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Field.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IntegerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InterfaceDetail/Action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReviewConstructor/ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReviewConstructor/Some.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReviewConstructor/testReviewConMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ScannerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ball/CurlTestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ball/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ball/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ball/ballNew/ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/ClientEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/ClientListner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/ClientMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/client/ClientQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptionHandle/TryCatchMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fruit/Fruit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fruit/FruitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/martin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceInterface/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceInterface/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceInterface/Shark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceInterface/Submarine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceInterface/Swimmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practiceInterface/SwimmerMain.java" afterDir="false" />
-    </list>
+    <list default="true" id="3a56ea03-d042-4588-992d-239cb85737b6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -244,6 +191,7 @@
       <workItem from="1702624352851" duration="941000" />
       <workItem from="1702625335049" duration="259000" />
       <workItem from="1702625600038" duration="286000" />
+      <workItem from="1702626991103" duration="307000" />
     </task>
     <servers />
   </component>
