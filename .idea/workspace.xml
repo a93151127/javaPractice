@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3a56ea03-d042-4588-992d-239cb85737b6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionAndMap/HashMapMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionAndMap/HashMapMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionAndMap/ImmutableMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionAndMap/ImmutableMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,22 +45,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ImmutableMain.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/tibame/workSpace/SpringSecurity/JavaPractice",
+    "last_opened_file_path": "D:/workSpace/javaPractice",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -145,10 +146,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ImmutableMain" />
         <item itemvalue="Application.TreeMapMain" />
         <item itemvalue="Application.PropertiesMain" />
         <item itemvalue="Application.MapMain" />
-        <item itemvalue="Application.ImmutableMain" />
         <item itemvalue="Application.HashMapMain" />
       </list>
     </recent_temporary>
@@ -200,6 +201,7 @@
       <workItem from="1702625335049" duration="259000" />
       <workItem from="1702625600038" duration="286000" />
       <workItem from="1702626991103" duration="1197000" />
+      <workItem from="1702793262193" duration="673000" />
     </task>
     <servers />
   </component>
